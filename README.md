@@ -32,8 +32,3 @@ Anteriormente, atuei como advogada por 10 anos trabalhando com Startups, mas min
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-
-### 📊 Estatísticas do GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMendex&layout=donut)](https://github.com/GabrielaMendex/github-readme-stats)
-
