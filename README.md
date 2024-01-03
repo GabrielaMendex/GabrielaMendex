@@ -22,6 +22,7 @@ Anteriormente, atuei como advogada por 10 anos trabalhando com Startups, mas min
 
 - [**API Banco Digital**](https://github.com/GabrielaMendex/api-rest-conta-digital): Projeto de uma API para um Banco Digital seguindo o padrão REST.
 - [**API Controle Financeiro Pessoal**](https://github.com/GabrielaMendex/api_controle_financeiro_pessoal): Projeto de uma API de controle financeiro pessoal seguindo o padrão REST.
+- [**API Ponto de Venda (frente de caixa)**](https://github.com/GabrielaMendex/api.pontodevendas): Projeto de uma API de Ponto de Venda (Frente de Caixa) seguindo o padrão REST.
 
 ### 📫 Vamos Conversar
 
