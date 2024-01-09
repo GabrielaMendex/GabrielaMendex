@@ -27,7 +27,6 @@ Anteriormente, atuei como advogada por 10 anos trabalhando com Startups, mas min
 ### 📫 Vamos Conversar
 
 -   **gabrielamendes.tech@gmail.com**
--    **(41) 99162 - 9530** 
 
 <a href="https://www.linkedin.com/in/gabrielamendesdealmeida" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
